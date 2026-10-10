@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="90" viewBox="0 0 1000 90" role="img" aria-label="Let's build something worth saving">
+  <defs>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7cf5d4"/><stop offset="0.5" stop-color="#6aa8ff"/><stop offset="1" stop-color="#c78bff"/>
+    </linearGradient>
+    <style>
+      .t{font:700 20px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#e8eeff;letter-spacing:.5px}
+      .flow{stroke-dasharray:8 10;animation:dash 4s linear infinite}
+      @keyframes dash{to{stroke-dashoffset:-72}}
+    </style>
+  </defs>
+  <rect width="1000" height="90" rx="18" fill="#0b1224"/>
+  <path class="flow" d="M30 45 H330" stroke="url(#ink)" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path class="flow" d="M670 45 H970" stroke="url(#ink)" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <text class="t" x="500" y="52" text-anchor="middle">Let's build something worth saving.</text>
+</svg>

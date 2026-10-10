@@ -1,90 +1,66 @@
-# 👋 Welcome to Shiv Balamoni's GitHub  
+<div align="center">
 
-🚀 **AI Consultant | AI Solutions Architect | Entrepreneur**  
-🌍 **Founder of Gvas LLC | AI Staffing & Automation Innovator**  
+<img src="assets/hero.svg" alt="Shiva Balamoni — Founder, Lexora AI LLC and Balamonis LLC" width="100%"/>
 
----
+**AI Solutions Architect · Entrepreneur · Teacher-in-the-making**
+📍 Pinellas Park, Florida  ·  🟢 Open to collaborations, clients and interns
 
-## **🌟 About Me**
-Hi there! I’m **Shiv Balamoni**, an **AI Consultant & Solutions Architect** passionate about **helping businesses integrate AI-driven automation and intelligence** into their workflows.  
+[**✉️ Email**](mailto:bsgouds.usa@gmail.com) &nbsp;·&nbsp; [**💼 LinkedIn**](https://www.linkedin.com/in/shivagoudb) &nbsp;·&nbsp; [**🌐 Lexora AI**](https://www.lexoraai.org/) &nbsp;·&nbsp; [**🚀 Live demo**](https://ai-job-automation-sepia.vercel.app)
 
-💡 **Currently:**  
-- **Providing AI Consulting Services** for businesses looking to adopt AI automation.  
-- **Building an AI-powered job platform** to help F1 students secure careers in AI.  
-- **Exploring AI-driven automation for recruitment, business intelligence, and cloud AI.**  
+</div>
 
-💼 **Founder of Gvas LLC**, an AI consultancy that specializes in **AI staffing, intelligent automation, and digital transformation.**  
+<br/>
 
-📫 **Email**: [bsgouds.usa@gmail.com](mailto:bsgouds.usa@gmail.com)  
-🔗 **LinkedIn**: [Shivagoud Balamoni](https://www.linkedin.com/in/shivagoudb)  
+## The short version
 
----
+I turn AI from a buzzword into working software: tools that save a business hours every week and give students a real path into the AI industry. I run two companies, ship products in public, and I'm opening a school so the next builders don't have to figure it out alone.
 
-## **💡 AI Consulting & Solutions**
-### **🚀 AI Implementation & Automation**
-- **AI Strategy & Digital Transformation** – Helping businesses integrate AI-powered automation & analytics.  
-- **AI for Business Intelligence** – Designing AI-driven dashboards, data insights, and predictive analytics.  
-- **AI for Recruitment & HR Automation** – Developing AI job-matching and candidate evaluation solutions.  
+<br/>
 
-### **🤖 AI Technologies & Platforms**
-- **Generative AI & NLP** – OpenAI, ChatGPT, GPT APIs, AI-powered chatbots.  
-- **Machine Learning & Deep Learning** – TensorFlow, PyTorch, AWS SageMaker.  
-- **AI Cloud Deployment** – Building & optimizing AI models on AWS, Azure.  
+## What I'm building
 
-### **🛠️ AI Automation & Data Science**
-- **AI-Powered RPA (Robotic Process Automation)** – Automating business workflows.  
-- **Intelligent Chatbots & Conversational AI** – Deploying AI for customer support, HR, and sales.  
-- **Data Analytics & AI-Driven Insights** – Enabling smarter decision-making through AI.  
+<img src="assets/ventures.svg" alt="Lexora AI, AI Job Automation, Command Center, The School" width="100%"/>
 
----
+<br/>
 
-## **🔥 Current Projects**
-### **1️⃣ AI Job Aggregator & Placement Platform**
-A fully automated **AI-powered hiring platform** that helps F1 students land careers in AI.  
+## Ship log: things you can open right now
 
-- **Tech Stack**: Python, OpenAI API, AWS Lambda, DynamoDB  
-- **Key Features**: AI-powered job search, automated resume matching, employer partnerships  
-- **Status**: Developing automated workflows & expanding industry connections  
+| | Project | What it does |
+|---|---|---|
+| 🧭 | [**AI Job Automation**](https://github.com/bsgusa/AI-Job-Automation) · [live](https://ai-job-automation-sepia.vercel.app) | AI job search, resume matching and automated workflows for students. TypeScript, MIT licensed. |
+| ⚖️ | [**Lexora AI**](https://www.lexoraai.org/) | Legal-tech AI platform from Lexora AI LLC. |
+| 💸 | [**Instant Payslip Generator**](https://github.com/bsgusa/payslip-lex-bala) · [live](https://payslip-vercel.vercel.app) | Generate a clean payslip in seconds. |
+| 🪪 | [**Employee Portal**](https://github.com/bsgusa/empolyeeportallexoraaillc) · [live](https://empolyeeportallexoraaillc.vercel.app) | Internal employee portal for Lexora AI LLC. |
 
-### **2️⃣ AI Automation for Business Optimization**  
-Consulting businesses on **AI-driven automation**, from **customer support to workflow intelligence.**  
+<br/>
 
-- **Industries Served**: IT, Finance, HR, E-Commerce, Healthcare  
-- **Solutions**: AI-powered dashboards, NLP automation, predictive analytics  
-- **Goal**: **Help businesses save time, reduce costs, and optimize workflows with AI.**  
+## Work with me: three doors
 
-### **3️⃣ AI-Powered Resume & Candidate Screening System**
-A smart AI-driven **resume screening system** to match candidates to the right job based on skills & experience.  
+| 🏢 Hire me | 🎓 Learn with me | 🤝 Build with me |
+|---|---|---|
+| AI strategy, automation and dashboards for teams in IT, finance, HR, e-commerce and healthcare. | **The School** is launching: project-based AI training, internships and a free trial to start. | Open-source contributors, startup partners and recruiters. Pick an issue, or pitch me. |
+| [Email me](mailto:bsgouds.usa@gmail.com?subject=AI%20consulting) | [Join the first class](mailto:bsgouds.usa@gmail.com?subject=The%20School%20-%20first%20class) | [Say hello](mailto:bsgouds.usa@gmail.com?subject=Collaboration) |
 
-- **Tech Stack**: Python, NLP, AI-based ranking models  
-- **Purpose**: Speed up hiring, reduce bias, and improve recruitment quality.  
-- **Target Audience**: AI staffing agencies, recruiters, hiring platforms.  
+<br/>
 
----
+## How I think
 
-## **🏆 Achievements & Certifications**
-✅ **AWS Certified Solutions Architect – Associate**  
-✅ **Certified AI Consultant (Generative AI & ML Specialization)**  
-✅ **Expert in AI Automation & Cloud AI Deployment**  
+- **Ship first, polish in public.** A live link beats a slide deck.
+- **Automate the boring, protect the human.** AI should give people their time back.
+- **Teach what you build.** Every product becomes a lesson, every lesson a product.
 
----
+<br/>
 
-## **🌱 Future Goals**
-🚀 **Become a leading AI consultant helping businesses transform with AI.**  
-🤖 **Expand AI-powered job placement & staffing solutions.**  
-☁️ **Develop scalable AI solutions for automation, hiring, and analytics.**  
-💼 **Partner with businesses to implement AI-driven digital transformation.**  
+## Toolbox
 
----
+`Python` · `TypeScript` · `React / Next.js` · `OpenAI & GPT APIs` · `NLP` · `TensorFlow` · `PyTorch` · `AWS (Lambda, DynamoDB, SageMaker)` · `Azure` · `Vercel` · `RPA & workflow automation`
 
-## **📢 How We Can Work Together**
-✅ **Businesses:** Need AI consulting for automation & analytics? Let’s talk.  
-✅ **Recruiters:** Looking for AI-powered candidate screening solutions? Let’s collaborate.  
-✅ **Startups & Enterprises:** Want AI integration? I can help with strategy & execution.  
+<!-- Credentials: add verification links (for example a Credly badge) before listing certifications here. -->
 
-🙌 *Looking for AI consulting opportunities & collaborations—let’s make an impact together!*  
+<br/>
 
----
+<div align="center">
+<img src="assets/footer.svg" alt="Let's build something worth saving." width="100%"/>
 
-🚀 **Follow my journey as I build AI-driven solutions for businesses & job seekers!**  
-💙 *Star this repo if you’re excited about AI, automation & digital transformation!* ⭐
+⭐ Star a repo if it helped you. Follow if you want to watch the school take shape.
+</div>

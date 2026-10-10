@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-label="Four ventures: Lexora AI, Talent Engine, Command Center, The School">
+  <defs>
+    <linearGradient id="c1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f2a2b"/><stop offset="1" stop-color="#0b1424"/></linearGradient>
+    <linearGradient id="c2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10223f"/><stop offset="1" stop-color="#0b1424"/></linearGradient>
+    <linearGradient id="c3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1c1a3f"/><stop offset="1" stop-color="#0b1424"/></linearGradient>
+    <linearGradient id="c4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2b1840"/><stop offset="1" stop-color="#0b1424"/></linearGradient>
+    <style>
+      .k{font:700 12px 'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:3px}
+      .h{font:800 22px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#f2f5ff}
+      .p{font:400 14px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#aebbe0}
+      .card{opacity:0;animation:in .8s ease-out forwards}
+      .a{animation-delay:.1s}.b{animation-delay:.3s}.c{animation-delay:.5s}.d{animation-delay:.7s}
+      .dot{animation:blink 2.2s ease-in-out infinite}
+      @keyframes in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+      @keyframes blink{0%,100%{opacity:.3}50%{opacity:1}}
+    </style>
+  </defs>
+
+  <g class="card a">
+    <rect x="0" y="0" width="238" height="250" rx="18" fill="url(#c1)" stroke="#7cf5d4" stroke-opacity="0.45"/>
+    <text class="k" x="22" y="40" fill="#7cf5d4">LEGAL TECH</text>
+    <text class="h" x="22" y="82">Lexora AI</text>
+    <text class="p" x="22" y="116">AI built for legal work:</text>
+    <text class="p" x="22" y="138">documents, workflows and</text>
+    <text class="p" x="22" y="160">operations that run clean.</text>
+    <circle class="dot" cx="30" cy="214" r="5" fill="#7cf5d4"/>
+    <text class="p" x="44" y="219">lexoraai.org</text>
+  </g>
+  <g class="card b">
+    <rect x="254" y="0" width="238" height="250" rx="18" fill="url(#c2)" stroke="#6aa8ff" stroke-opacity="0.45"/>
+    <text class="k" x="276" y="40" fill="#6aa8ff">TALENT ENGINE</text>
+    <text class="h" x="276" y="82">AI Job Automation</text>
+    <text class="p" x="276" y="116">Job search, resume matching</text>
+    <text class="p" x="276" y="138">and placement support for</text>
+    <text class="p" x="276" y="160">international students.</text>
+    <circle class="dot" cx="284" cy="214" r="5" fill="#6aa8ff"/>
+    <text class="p" x="298" y="219">live · open source · MIT</text>
+  </g>
+  <g class="card c">
+    <rect x="508" y="0" width="238" height="250" rx="18" fill="url(#c3)" stroke="#8d8bff" stroke-opacity="0.45"/>
+    <text class="k" x="530" y="40" fill="#8d8bff">OPERATING SYSTEM</text>
+    <text class="h" x="530" y="82">Command Center</text>
+    <text class="p" x="530" y="116">One AI control room for the</text>
+    <text class="p" x="530" y="138">whole Balamonis group:</text>
+    <text class="p" x="530" y="160">people, projects, money.</text>
+    <circle class="dot" cx="538" cy="214" r="5" fill="#8d8bff"/>
+    <text class="p" x="552" y="219">in-house · private</text>
+  </g>
+  <g class="card d">
+    <rect x="762" y="0" width="238" height="250" rx="18" fill="url(#c4)" stroke="#c78bff" stroke-opacity="0.6"/>
+    <text class="k" x="784" y="40" fill="#c78bff">LAUNCHING</text>
+    <text class="h" x="784" y="82">The School</text>
+    <text class="p" x="784" y="116">Learn AI by shipping real</text>
+    <text class="p" x="784" y="138">products. Free trials,</text>
+    <text class="p" x="784" y="160">internships, live cohorts.</text>
+    <circle class="dot" cx="792" cy="214" r="5" fill="#c78bff"/>
+    <text class="p" x="806" y="219">join the first class</text>
+  </g>
+</svg>
